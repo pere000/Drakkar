@@ -10,8 +10,16 @@ Key Features:
 - Server-side processing using PHP.
 - Integration of Bash scripts for automating tasks.
 - Requires PHP built-in server or can be deployed using Docker.
+  
+## Instructions
 
-Get started by cloning the repository and following the setup instructions to run the app locally.
+1. * Pull the Docker Image:
+   sudo docker pull perevictor/alpinedrakkar-php-bash_commands0
+2. * Run the container:
+   sudo docker run -d --name drakkar0 perevictor/alpinedrakkar-php-bash_commands0
+3. * Copy to your host the tar and read the original Dockerfile and Tutorial
+   sudo docker cp drakkar:/Dockerfile.tar.gz .
+4. Get started by cloning the repository and following the setup instructions to run the app locally.
 
 Target Audience: Developers and learners interested in web development and command-line scripting.
 
