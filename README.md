@@ -19,7 +19,7 @@ Key Features:
    sudo docker run -d --name drakkar0 perevictor/alpinedrakkar-php-bash_commands0
 3. * Copy to your host the tar and read the original Dockerfile and Tutorial
    sudo docker cp drakkar:/Dockerfile.tar.gz .
-4. Get started by cloning the repository and following the setup instructions to run the app locally.
+4. * Get started by cloning the repository and following the setup instructions to run the app locally.
 
 Target Audience: Developers and learners interested in web development and command-line scripting.
 
