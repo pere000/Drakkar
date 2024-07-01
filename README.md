@@ -18,17 +18,17 @@ Target Audience: Developers and learners interested in web development and comma
 Feel free to clone, explore, and contribute to this project!
 
 Disclaimer:
-## Work-in-Progress (WIP) Status
+### Work-in-Progress (WIP) Status
 This application is currently a work-in-progress (WIP) source. While the core functionalities are in place and it is almost ready to work perfectly, please note the following:
 
 - **Cleaning of Unnecessary Files**: The application may contain unnecessary files (garbage) that need to be cleaned up.
 - **Testing Status**: While important aspects of development have been tested, the testing coverage is not yet exhaustive.
 
-## Future Development
+### Future Development
 We are continuously working to improve the application by refining features, enhancing performance, and expanding test coverage. Your feedback and contributions are welcome as we strive to make this application even better.
 
-### Nutrient Data Attribution
+## Nutrient Data Attribution
 The nutrient data used in this application is sourced from the Norwegian Directorate of Health of the University of Oslo and the Norwegian Food Safety Authority under the MIT License. We attribute and comply with their licensing terms by providing appropriate copyright notices.
 
-### User-generated Content
+## User-generated Content
 Users of this application have the ability to create and modify nutrient values, including generating "fake recipes" based on this data. However, it is important to note that this application does not grant the right to publicly distribute or publish prescriptions based on real-world data from the aforementioned licensing agents.
