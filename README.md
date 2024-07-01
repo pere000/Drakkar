@@ -20,8 +20,8 @@ Key Features:
 3. * Copy to your host the tar and read the original Dockerfile and Tutorial
    sudo docker cp drakkar:/Dockerfile.tar.gz .
 4. * Get started by cloning the repository and following the setup instructions to run the app locally.
-5. * If you use the PHP built-in server, placed at the root folder 'www' of the App execute te command: php -S localhost:8080 .
-     In your browser: http://localhost:8080/index.html
+5. * If you use the PHP built-in server then, placed at the root folder 'www' of the App, execute te command: php -S localhost:8080 .
+     and access the domain through http://localhost:8080/index.html
      
 Target Audience: Developers and learners interested in web development and command-line scripting.
 
