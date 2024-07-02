@@ -14,7 +14,7 @@ Key Features:
 
 ### Work-in-Progress (WIP) Status
 This application is currently a work-in-progress (WIP) source. While the core functionalities are in place and it is almost ready to work perfectly, please note the following:
-
+- **Creating a Tutorial**
 - **Cleaning of Unnecessary Files**: The application may contain unnecessary files (garbage) that need to be cleaned up.
 - **Testing Status**: While important aspects of development have been tested, the testing coverage is not yet exhaustive.
 
