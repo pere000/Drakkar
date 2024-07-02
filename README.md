@@ -25,8 +25,7 @@ Key Features:
    - Docker users: sudo docker run --name runtest1 -dp 8080:80 -v "$(pwd)":/var/www perevictor/alpinedrakkar-php-bash_commands0
    - PHP built-in users: php -S localhost:8080 .
      
-5. * If you use the PHP built-in server then, placed at the root folder 'www' of the App, execute te command: php -S localhost:8080 .
-     and access the domain through http://localhost:8080/index.html
+Access the domain through http://localhost:8080/index.html
      
 Target Audience: Developers and learners interested in web development and command-line scripting.
 
