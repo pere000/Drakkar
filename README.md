@@ -20,7 +20,7 @@ This application is currently a work-in-progress (WIP) source. While the core fu
 
 ### Target Audience:
 
-Developers and learners interested in web development and command-line scripting.
+Developers and learners interested in web development and command-line scripting. Anyone interested in food and nutrients, and in creating recipes with a database granted and supported by government agents (Read the Disclaimer).
 
 ### Future Development
 We are continuously working to improve the application by refining features, enhancing performance, and expanding test coverage. Your feedback and contributions are welcome as we strive to make this application even better.
