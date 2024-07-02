@@ -28,7 +28,9 @@ Key Features:
      
 Access the domain through http://localhost:8080/index.html
      
-Target Audience: Developers and learners interested in web development and command-line scripting.
+# Target Audience:
+
+Developers and learners interested in web development and command-line scripting.
 
 Feel free to clone, explore, and contribute to this project!
 
