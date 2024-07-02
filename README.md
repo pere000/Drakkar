@@ -10,7 +10,20 @@ Key Features:
 - Server-side processing using PHP.
 - Integration of Bash scripts for automating tasks.
 - Requires PHP built-in server or can be deployed using Docker.
-  
+- 
+Disclaimer:
+### Work-in-Progress (WIP) Status
+This application is currently a work-in-progress (WIP) source. While the core functionalities are in place and it is almost ready to work perfectly, please note the following:
+
+- **Cleaning of Unnecessary Files**: The application may contain unnecessary files (garbage) that need to be cleaned up.
+- **Testing Status**: While important aspects of development have been tested, the testing coverage is not yet exhaustive.
+
+### Target Audience:
+
+Developers and learners interested in web development and command-line scripting.
+
+Feel free to clone, explore, and contribute to this project!
+
 ## Instructions
 
 1. * Pull the Docker Image:
@@ -28,18 +41,9 @@ Key Features:
      
 Access the domain through http://localhost:8080/index.html
      
-### Target Audience:
 
-Developers and learners interested in web development and command-line scripting.
 
-Feel free to clone, explore, and contribute to this project!
-
-Disclaimer:
-### Work-in-Progress (WIP) Status
-This application is currently a work-in-progress (WIP) source. While the core functionalities are in place and it is almost ready to work perfectly, please note the following:
-
-- **Cleaning of Unnecessary Files**: The application may contain unnecessary files (garbage) that need to be cleaned up.
-- **Testing Status**: While important aspects of development have been tested, the testing coverage is not yet exhaustive.
+# Disclaimer:
 
 ### Future Development
 We are continuously working to improve the application by refining features, enhancing performance, and expanding test coverage. Your feedback and contributions are welcome as we strive to make this application even better.
