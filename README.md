@@ -22,7 +22,11 @@ This application is currently a work-in-progress (WIP) source. While the core fu
 
 Developers and learners interested in web development and command-line scripting.
 
+### Future Development
+We are continuously working to improve the application by refining features, enhancing performance, and expanding test coverage. Your feedback and contributions are welcome as we strive to make this application even better.
+
 Feel free to clone, explore, and contribute to this project!
+
 
 ## Instructions
 
@@ -42,13 +46,9 @@ Inside the 'www' folder, execute the necessary commands to ensure your server (w
 		~ PHP built-in users: php -S localhost:8080 .
      
 Access the domain through http://localhost:8080/index.html
-     
 
 
 # Disclaimer:
-
-### Future Development
-We are continuously working to improve the application by refining features, enhancing performance, and expanding test coverage. Your feedback and contributions are welcome as we strive to make this application even better.
 
 ## Nutrient Data Attribution
 The nutrient data used in this application is sourced from the Norwegian Directorate of Health of the University of Oslo and the Norwegian Food Safety Authority under the MIT License. We attribute and comply with their licensing terms by providing appropriate copyright notices.
