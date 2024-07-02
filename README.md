@@ -10,8 +10,8 @@ Key Features:
 - Server-side processing using PHP.
 - Integration of Bash scripts for automating tasks.
 - Requires PHP built-in server or can be deployed using Docker.
-- 
-Disclaimer:
+
+
 ### Work-in-Progress (WIP) Status
 This application is currently a work-in-progress (WIP) source. While the core functionalities are in place and it is almost ready to work perfectly, please note the following:
 
