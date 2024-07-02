@@ -22,9 +22,9 @@ Key Features:
    sudo docker cp drakkar0:/etc/Dockerfile.tar.gz .
 4. * Get started by cloning the repository and following the setup instructions to run the app locally. Under the 'Drakkar' folder downloaded uncompress the drakkarOceans.tar.gz and get the 'www' folder. Place it were you want to run the App, and     open a command line under the 'www' folder. Run the commands inside that folder, so your server (PHP built-in or the docker image) grasps the App folders and files.
   
-~Docker users: sudo docker run --name runtest1 -dp 8080:80 -v "$(pwd)":/var/www perevictor/alpinedrakkar-php-bash_commands0
+		~ Docker users: sudo docker run --name runtest1 -dp 8080:80 -v "$(pwd)":/var/www perevictor/alpinedrakkar-php-bash_commands0
 
-~PHP built-in users: php -S localhost:8080 .
+		~ PHP built-in users: php -S localhost:8080 .
      
 Access the domain through http://localhost:8080/index.html
      
