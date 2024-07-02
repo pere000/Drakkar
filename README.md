@@ -51,7 +51,7 @@ Access the domain through http://localhost:8080/index.html
 # Disclaimer:
 
 ## Nutrient Data Attribution
-The nutrient data used in this application is sourced from the Norwegian Directorate of Health of the University of Oslo and the Norwegian Food Safety Authority under the MIT License. We attribute and comply with their licensing terms by providing appropriate copyright notices.
+The nutrient data main table used in this application is sourced from the 'Norwegian Directorate of Health of the University of Oslo' and the 'Norwegian Food Safety Authority' under the MIT License. We attribute and comply with their licensing terms by providing appropriate copyright notices.
 
 ## User-generated Content
 Users of this application have the ability to create and modify nutrient values, including generating "fake recipes" based on this data. However, it is important to note that this application does not grant the right to publicly distribute or publish prescriptions based on real-world data from the aforementioned licensing agents.
