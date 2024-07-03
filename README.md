@@ -36,7 +36,7 @@ Feel free to clone, explore, and contribute to this project!
    sudo docker run -d --name drakkar0 perevictor/alpinedrakkar-php-bash_commands0
 3. * Copy to your host the tar and read the original Dockerfile and Tutorial: 
    sudo docker cp drakkar0:/etc/Dockerfile.tar.gz .
-4. * To ge started, decompress the Dockerfile.tar.gz and follow the instructions in the tutorial.txt
+4. * To get started, decompress the Dockerfile.tar.gz and follow the instructions in the tutorial.txt
 
 
 # Disclaimer:
