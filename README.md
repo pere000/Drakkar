@@ -9,7 +9,7 @@ Key Features:
 - Responsive HTML/CSS frontend with interactive elements.
 - Server-side processing using PHP.
 - Integration of Bash scripts for automating tasks.
-- Requires PHP built-in server or can be deployed using Docker.
+- Requires built-in PHP server, Docker or both.
 
 
 ### Work-in-Progress (WIP) Status
