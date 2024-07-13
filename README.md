@@ -63,5 +63,5 @@ This Docker image is intended solely for development and testing purposes. It la
 
 **Note:** Before deploying this image in any environment, whether for development, testing, or user trials, carefully review and implement all necessary security measures according to your organization's security policies and compliance requirements.
 
-#Follow progress in development:
-- visit https://github.com/users/pere000/projects/1/views/1"
+# Follow progress in development. Visit:
+- https://github.com/users/pere000/projects/1/views/1"
