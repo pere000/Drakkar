@@ -46,3 +46,21 @@ The nutrient data main table used in this application is sourced from the 'Norwe
 
 ## User-generated Content
 Users of this application have the ability to create and modify nutrient values, including generating "fake recipes" based on this data. However, it is important to note that this application does not grant the right to publicly distribute or publish prescriptions based on real-world data from the aforementioned licensing agents.
+
+# Usage Notes
+
+This Docker image is intended solely for development and testing purposes. It lacks essential security measures required for production environments, such as strict access controls, exposure only to trusted networks, and the use of certificates from trusted Certificate Authorities (CA).
+
+### ⚠️ Security Considerations:
+
+- **Exposure**: The running image currently does NOT expose even to port 443 (HTTPS), whether for development/testing or user trials. Ensure you use a secure network.
+
+- **SSL/TLS Certificates**: Self-signed certificates generated for testing purposes are NOT currently in use. For production, replace them with certificates issued by a recognized Certificate Authority (CA).
+
+- **Network Security**: Implement additional security measures to protect against network-based attacks and unauthorized access.
+
+- **Container Hardening**: Follow best practices for Docker container security to mitigate potential vulnerabilities.
+
+**Note:** Before deploying this image in any environment, whether for development, testing, or user trials, carefully review and implement all necessary security measures according to your organization's security policies and compliance requirements.
+
+
