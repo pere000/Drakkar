@@ -34,7 +34,7 @@ Feel free to clone, explore, and contribute to this project!
     This is 39.77 MB, but you can also use perevictor/alpinedrakkar-php-mariadb-bash_commands0 107.29 MB instead
 2. * Run the container:
    sudo docker run -d --name drakkar0 perevictor/alpinedrakkar-php-bash_commands0
-3. * Copy the Dockerfile.tar.gz placed in the 'etc' folder of the Docker container on your host and read the original Dockerfile and tutorial: 
+3. * Copy the Dockerfile.tar.gz placed in the 'home' folder of the Docker running container and read the original Dockerfile and tutorial: 
    sudo docker cp drakkar0:/etc/Dockerfile.tar.gz .
 4. * To get started, follow the instructions in the tutorial.txt
 
